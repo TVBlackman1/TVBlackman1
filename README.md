@@ -23,4 +23,4 @@ I will be glad to help!
 
 🌱 I am currently trying to delve deeper into the work of full-stack developer on node js
 
-How to reach me: https://vk.com/mishayarov, vbif.misha2012@yandex.ru
+📫 How to reach me: https://vk.com/mishayarov, vbif.misha2012@yandex.ru
