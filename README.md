@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I`m 👋 Mikhail!
+# Hello 👋, I`m Mikhail!
 ___
 Contact me here: https://vk.com/mishayarov
 ___
