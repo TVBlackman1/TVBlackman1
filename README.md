@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 -->
 # Hello 👋, I`m Mikhail!
 ___
-Contact me here: https://vk.com/mishayarov
+Contact me here: https://t.me/tvblackman1
 ___
 I work as a programmer. I spend most of my time developing web applications.
-I am familiar with the creation and support of projects on MERN and Go Bin. 
-In addition, there is little experience in creating C# - based applications .Net Core. 
+I am familiar with the creation and support of projects on MERN and Go Bin, Node Expreess
 I will be glad to help!
 
 🌱 I am currently trying to delve deeper into the work of full-stack developer on node js
 
-📫 How to reach me: https://vk.com/mishayarov, vbif.misha2012@yandex.ru
+📫 How to reach me: https://t.me/tvblackman1
