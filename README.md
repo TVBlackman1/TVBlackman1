@@ -17,9 +17,9 @@ ___
 Contact me here: https://t.me/tvblackman1
 ___
 I work as a programmer. I spend most of my time developing web applications.
-I am familiar with the creation and support of projects on MERN and Go Bin, Node Express
+I am familiar with the creation and support of projects on Node Express, Nest and Go Bin
 I will be glad to help!
 
-🌱 I am currently trying to delve deeper into the work of full-stack developer on node js
+🌱 I am currently trying to delve deeper into the work of backend developing on node js
 
 📫 How to reach me: https://t.me/tvblackman1
