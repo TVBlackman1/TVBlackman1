@@ -12,13 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello 👋, I`m Mikhail!
+<!-- # Hello 👋, I`m Mikhail! -->
 ___
-Contact me here: https://t.me/tvblackman1
-___
-I work as a programmer. I spend most of my time developing web applications.
-I am familiar with the creation and support of projects on Node Express, Nest and Go Bin
-I will be glad to help!
+Languages: Go, Js, Kotlin
 
 🌱 I am currently trying to delve deeper into the work of backend developing on go
 
